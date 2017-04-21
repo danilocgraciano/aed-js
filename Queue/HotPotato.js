@@ -11,7 +11,4 @@ class HotPotato {
         }
         console.log('O Vencedor é %s', this._queue.dequeue());
     }
-
-
-
 }
